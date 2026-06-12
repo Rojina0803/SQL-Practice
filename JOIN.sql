@@ -1,6 +1,6 @@
 -- JOINS
 
--- INNER JOIN
+-- INNER JOIN.
  select *
  from employee_demographics;
  
